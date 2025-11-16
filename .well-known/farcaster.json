@@ -6,8 +6,8 @@
   "splash": "https://gavinpeterson8.github.io/sundaypost-miniapp/splash.png",
   "home_page": "https://gavinpeterson8.github.io/sundaypost-miniapp/index.html",
   "account_association": {
-    "header": "eyJmaWQiOiIxNjQ1MSwidHlwaW5lIjoicG9zdCIsZnRlc... (your full header)",
-    "payload": "eyJk2hbl4... (your full payload)",
-    "signature": "YGdyJ/BgR9/NoJJJlCPkNrDTdA/LinCSYsTFYjg358F+..."
+    "header": "eyJmaWQiOjIxNjQ1MSwidHlwZSI6ImF1dGgiLCJrZXkiOiIweGU3NWU0M2RBM2E4NkMyYkVmQWM2NkRlNzdEMjYzNTVkMzBiRmVGMzQifQ",
+    "payload": "eyJkb21haW4iOiJnYXZpbnBldGVyc29uOC5naXRodWIuaW8ifQ",
+    "signature": "YGdjy/BgR9jNoJUJICpkNrDTdAP/LinC5YsTfIYjg358f+wfNZbiMu6gCjLbHvRGUY2mXxitrgaxYh2NqVjKShw="
   }
 }
